@@ -54,3 +54,17 @@ p {
     margin: 10px;
     
 }
+
+.page-header {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: rgb(59, 57, 57) !important;
+}
+
+.portfolio-page {
+    text-align: center;
+}
